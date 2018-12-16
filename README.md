@@ -1,6 +1,5 @@
 # CompetitiveProgramming
 Competitive coding problems and challenges from Codeforces, OBI, Codcad and other sources
-P.S.: All challenges solved in C++, except when other languages are specified
 
 ### solved from Codeforces problemset
 1. 231a
@@ -24,3 +23,4 @@ P.S.: All challenges solved in C++, except when other languages are specified
 3. Maybe sort OBI problems by level raintb (PJ, P1 and P2)
 4. Solve more problems!
 
+(P.S.: All challenges solved in C++, except when other languages are specified)
