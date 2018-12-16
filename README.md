@@ -1,4 +1,4 @@
-# CompetitiveProgramming
+# CompetitiveProgramming - Chrome's solved challenges
 Competitive coding problems and challenges from Codeforces, OBI, Codcad and other sources
 P.S.: All challenges solved in C++, except when other languages are specified
 
@@ -9,7 +9,7 @@ P.S.: All challenges solved in C++, except when other languages are specified
 4. ...
 
 ### solved from OBI official pratice website
-1. fuga [link](https://olimpiada.ic.unicamp.br/pratique/pj/2016/f2/fuga/)
+1. fuga [source](https://olimpiada.ic.unicamp.br/pratique/pj/2016/f2/fuga/)
 2.
 3. ...
 
@@ -17,3 +17,4 @@ P.S.: All challenges solved in C++, except when other languages are specified
 1. cadscore
 2.
 3. ...
+
