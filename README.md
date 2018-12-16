@@ -18,4 +18,9 @@ P.S.: All challenges solved in C++, except when other languages are specified
 2.
 3. ...
 
-##
+## To-Do list:
+1. Sort Codeforces problems by rating (700-rated, 800-rated, etc.)
+2. Solve as little problems in Python as possible 
+3. Maybe sort OBI problems by level raintb (PJ, P1 and P2)
+4. Solve more problems!
+
