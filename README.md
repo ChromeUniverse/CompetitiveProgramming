@@ -1,4 +1,4 @@
-# CompetitiveProgramming - Chrome's solved challenges
+# CompetitiveProgramming
 Competitive coding problems and challenges from Codeforces, OBI, Codcad and other sources
 P.S.: All challenges solved in C++, except when other languages are specified
 
@@ -18,3 +18,4 @@ P.S.: All challenges solved in C++, except when other languages are specified
 2.
 3. ...
 
+##
