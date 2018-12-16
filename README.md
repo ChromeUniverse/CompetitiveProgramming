@@ -3,17 +3,17 @@ Competitive coding problems and challenges from Codeforces, OBI, Codcad and othe
 P.S.: All challenges solved in C++, except when other languages are specified
 
 ### solved from Codeforces problemset
-> 231a
-> 1015a (Python3)
->
-> ...
+1. 231a
+2. 1015a (Python3)
+3.
+4. ...
 
 ### solved from OBI official pratice website
-> fuga https://olimpiada.ic.unicamp.br/pratique/pj/2016/f2/fuga/
->
->...
+1. fuga [link](https://olimpiada.ic.unicamp.br/pratique/pj/2016/f2/fuga/)
+2.
+3. ...
 
 ### solved from Codcad C++ course
-> cadscore
->
->...
+1. cadscore
+2.
+3. ...
