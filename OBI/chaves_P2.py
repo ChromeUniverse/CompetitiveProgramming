@@ -18,5 +18,5 @@ for i in range(num_lines):
 
 if num_brackets == 0 and fail == False:
     print('S')
-if num_brackets != 0 or fail == True:
+if fail == True:
     print('N')
