@@ -9,7 +9,7 @@ Competitive coding problems and challenges from Codeforces, OBI, Codcad and othe
 
 ### solved from OBI official pratice website
 1. fuga [TEXT HERE](https://olimpiada.ic.unicamp.br/pratique/pj/2016/f2/fuga/)
-2. chaves [TEXT HERE] (https://olimpiada.ic.unicamp.br/pratique/p2/2016/f1/chaves/) (Python3)
+2. chaves [TEXT HERE](https://olimpiada.ic.unicamp.br/pratique/p2/2016/f1/chaves/) (Python3)
 3. ...
 
 ### solved from Codcad C++ course
